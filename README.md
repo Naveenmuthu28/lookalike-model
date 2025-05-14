@@ -20,7 +20,7 @@ This approach is adaptable to other domains like marketing, fraud detection, cus
 ---
 
 ## Project Structure
-
+```
 lookalike-model/
 ├── Synthetic Dataset Generation Code/
 │ └── synthetic email spam dataset.ipynb
@@ -33,7 +33,7 @@ lookalike-model/
 ├── requirements.txt
 └── README.md
 └── LICENSE
-
+```
 ---
 
 ## Technologies Used
